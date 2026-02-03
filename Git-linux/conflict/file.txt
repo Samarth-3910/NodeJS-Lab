@@ -1,0 +1,3 @@
+Initial line
+Change from branch-1
+Changes from the branch 2
