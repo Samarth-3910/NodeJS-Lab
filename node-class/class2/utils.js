@@ -1,9 +1,20 @@
-export const add = (a, b) => {
+// export const add = (a, b) => {
+//     return a + b;
+// };
+
+// const multi = (a, b) => {
+//     return a * b;
+// };
+
+// export default multi;
+
+
+const add = (a, b) => {    
     return a + b;
-};
+}
 
-const multi = (a, b) => {
+const multi = (a, b) => {    
     return a * b;
-};
+}
 
-export default multi;
+module.exports = { add, multi };
