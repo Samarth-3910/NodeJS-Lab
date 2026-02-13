@@ -17,4 +17,5 @@ const multi = (a, b) => {
     return a * b;
 }
 
+const asd = 10;
 module.exports = { add, multi };
